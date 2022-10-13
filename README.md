@@ -11,7 +11,7 @@
 - :interrobang: Enthusiastic about **DevOps, AWS, Azure, Kubernetes, Terraform**.
 - :globe_with_meridians: My handles : 
 
-[![shivaraju nayak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraju-nayak-ab9866a5/) [![shivaraju nayak](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivaraju_nayak462/) [![shivaraju nayak](https://img.shields.io/badge/-facebook-FFA177?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/shivaraju.acchu)
+[![shivaraju nayak](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivaraju-nayak-ab9866a5/) [![shivaraju nayak](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shivaraju_nayak462/) [![shivaraju nayak](https://img.shields.io/badge/-facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=black)](https://www.facebook.com/shivaraju.acchu)
 
 ## Quote
 > Never out of the fight
