@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Shivaraju Nayak
-
 ## DevOps Engineer | Active Learner
 
 
 
-
+🌐 My handles :
 [Github](https://github.com/Shivarajunayak)
 - 👀 I’m interested to learn new tech...
 - 🌱 I’m currently learning python...
