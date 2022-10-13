@@ -6,7 +6,7 @@
 
 
 ## About me
-- :book: I'm currently learning **back-end development using NodeJS and Blockchain-dev with Go**
+- :book: I'm currently learning **Kubernetes & Terraform**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :interrobang: Enthusiastic about **DevOps, AWS, Azure, Kubernetes, Terraform**.
 - :globe_with_meridians: My handles : 
