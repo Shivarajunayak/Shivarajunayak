@@ -25,4 +25,7 @@
 
 
 ### Stats
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivarajunayak&theme=ads-juicy-fresh&hide_border=true" alt="my commit status" width="49%" /> 
+</p>
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=Shivarajunayak)
