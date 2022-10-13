@@ -3,7 +3,7 @@
 
 
 
-🌐 My handles :
+:globe_with_meridians: My handles :
 
 [Github](https://github.com/Shivarajunayak)
 
