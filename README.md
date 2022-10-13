@@ -10,7 +10,7 @@
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :interrobang: Enthusiastic about **DevOps, AWS, Azure, Kubernetes, Terraform**.
 - :globe_with_meridians: My handles : 
-:globe_with_meridians: My handles :
+
 
 
 
