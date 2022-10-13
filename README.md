@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=Shivarajunayak&color=orange&style=flat-square)
+
 #                          Hi there 👋, I'm Shivaraju Nayak
 ##                         DevOps Engineer | Active Learner
 
