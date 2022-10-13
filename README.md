@@ -5,13 +5,14 @@
 <h3 align="center">DevOps Engineer | Active Learner</h3>
 
 
-
+## About me
+- :book: I'm currently learning **back-end development using NodeJS and Blockchain-dev with Go**
+- :speech_balloon: Ask me about **anything, which might interest you**
+- :interrobang: Enthusiastic about **DevOps, AWS, Azure, Kubernetes, Terraform**.
+- :globe_with_meridians: My handles : 
 :globe_with_meridians: My handles :
 
-![Github](https://github.com/Shivarajunayak)
 
-- 👀 I’m interested to learn new tech...
-- 🌱 I’m currently learning python...
 
 ## Quote
 > Never out of the fight
