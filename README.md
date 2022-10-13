@@ -1,5 +1,5 @@
-                        # Hi there 👋, I'm Shivaraju Nayak
-                        ## DevOps Engineer | Active Learner
+#                          Hi there 👋, I'm Shivaraju Nayak
+##                         DevOps Engineer | Active Learner
 
 
 
