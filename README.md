@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Shivarajunayak&color=orange&style=flat-square)
 
-<h1 align="center">Hey There, <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/>I'm Shivaraju Nayak!</h1>
+<h1 align="center">Hey There,<img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/> I'm Shivaraju Nayak!</h1>
 <h3 align="center">DevOps Engineer | Active Learner</h3>
 
 
