@@ -1,8 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Shivarajunayak&color=orange&style=flat-square)
 
-#                          Hi there 👋, I'm Shivaraju Nayak
-##                         DevOps Engineer | Active Learner
+<h1 align="center">Hi there 👋, I'm Shivaraju Nayak</h1>
+<h3 align="center">DevOps Engineer | Active Learner</h3>
 
 
 
