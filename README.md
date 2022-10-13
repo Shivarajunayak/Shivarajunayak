@@ -21,7 +21,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![powershell](https://img.shields.io/badge/powershell-00ADD8?style=for-the-badge&logo=powershell&logoColor=white) ![shellScript](https://img.shields.io/badge/shellscript-%23323330.svg?style=for-the-badge&logo=shellscript&logoColor=%23F7DF1E)
 
 ### Tools and Extra
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-FF6C37?style=for-the-badge&logo=Jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23F05010.svg?style=for-the-badge&logo=aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%#000000.svg?style=for-the-badge&logo=Ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%234ea94b.svg?style=for-the-badge&logo=Docker&logoColor=white)	
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-FF6C37?style=for-the-badge&logo=Jenkins&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23F05010.svg?style=for-the-badge&logo=aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%#80808011.svg?style=for-the-badge&logo=Ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%234ea94b.svg?style=for-the-badge&logo=Docker&logoColor=white)	
 
 
 ### Stats
